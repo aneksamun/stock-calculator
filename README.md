@@ -50,7 +50,7 @@ NEAB0001,20161201,DEP,10000,1,CASH
 NEAB0001,20170301,WDR,5000,1,CASH
 ```
 
-## Holdings given a date of 20170201
+## Holdings given a date of 2017/02/01
 
 ```
 Current Holdings on 20170201:
@@ -63,3 +63,12 @@ Current Holdings on 20170201:
         CASH    10000.0000
 ```
 
+## User manual
+
+In order to perform calculations the file and date should be selected first.
+
+![initial](doc/form1.jpg?raw=true "Initial")
+
+On a click calculate button the statement of the customer current holdings is printed out.  
+
+![statement](doc/form2.jpg?raw=true "Statement")
